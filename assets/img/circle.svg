@@ -1,0 +1,11 @@
+    <svg width="5cm" height="5cm" version="1.1" xmlns="http://www.w3.org/2000/svg">
+        <circle stroke="purple" fill="purple" cx="50" cy="50" r="40" />
+        <text 
+        x="25%" 
+        y="25%" 
+        dominant-baseline="middle" 
+        text-anchor="middle" 
+        font-weight="100" 
+        style="fill:white"
+        >1968</text> 
+    </svg>
